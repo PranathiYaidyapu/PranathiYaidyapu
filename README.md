@@ -32,7 +32,6 @@ Passionate about building software solutions using web technologies, computer vi
 - Raspberry Pi
 - OpenCV
 - MediaPipe
-- Maven
 
 ---
 
