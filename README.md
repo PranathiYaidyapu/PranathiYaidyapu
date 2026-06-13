@@ -2,7 +2,7 @@
 
 🎓 Master of Science in Computer Science | University of Central Oklahoma (Dec 2025)
 
-💻 Software Developer | Front-End Developer
+💻 Software Developer | Front-End Developer | Mendix
 
 Passionate about building software solutions using web technologies, computer vision, IoT systems, and cloud-based applications. Experienced in developing academic and personal projects involving Python, JavaScript, React.js, OpenCV, MediaPipe, Firebase, SQL, and Raspberry Pi.
 
@@ -15,6 +15,7 @@ Passionate about building software solutions using web technologies, computer vi
 - Java
 - JavaScript
 - SQL
+- Mendix
 
 ### Web Development
 - React.js
@@ -37,6 +38,14 @@ Passionate about building software solutions using web technologies, computer vi
 
 ## 🚀 Featured Projects
 
+
+### 💬 iChat
+Developed a web-based chat application that enables communication through an interactive user interface. Implemented message handling, user interaction features, and responsive design principles to create a seamless communication platform.
+
+**Technologies:** Java, HTML, Maven, Web Technologies
+
+---
+
 ### 🤖 Hand Gesture Control System
 Developed a real-time hand gesture recognition system using Python, OpenCV, MediaPipe, and Raspberry Pi. Implemented gesture tracking and control mechanisms to enable touchless interaction and integrated Firebase for cloud-based data management.
 
@@ -48,13 +57,6 @@ Developed a real-time hand gesture recognition system using Python, OpenCV, Medi
 Built an IoT-based environmental monitoring system for measuring temperature and humidity in real time. Integrated sensors with Raspberry Pi and Firebase to collect, store, and monitor environmental data remotely.
 
 **Technologies:** Python, Raspberry Pi, Firebase, IoT Sensors
-
----
-
-### 💬 iChat
-Developed a web-based chat application that enables communication through an interactive user interface. Implemented message handling, user interaction features, and responsive design principles to create a seamless communication platform.
-
-**Technologies:** Java, HTML, Maven, Web Technologies
 
 ---
 
