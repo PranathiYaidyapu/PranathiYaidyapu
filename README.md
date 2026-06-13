@@ -2,13 +2,13 @@
 
 🎓 Master of Science in Computer Science | University of Central Oklahoma (Dec 2025)
 
-💻 Software Developer | Front-End Developer | Mendix
+💻 Software Developer | Front-End Developer | Computer Vision & IoT Enthusiast
 
-Passionate about building software solutions using web technologies, computer vision, IoT systems, and cloud-based applications. Experienced in developing academic and personal projects involving Python, JavaScript, React.js, OpenCV, MediaPipe, Firebase, SQL, and Raspberry Pi.
+I am a Computer Science graduate with experience developing web applications, IoT solutions, and computer vision projects. I enjoy building practical software solutions and continuously expanding my knowledge in software development, cloud technologies, and emerging technologies.
 
 ---
 
-## 🛠️ Technical Skills
+## 🚀 Technical Skills
 
 ### Programming Languages
 - Python
@@ -17,11 +17,10 @@ Passionate about building software solutions using web technologies, computer vi
 - SQL
 - Mendix
 
-### Web Development
+### Web Technologies
 - React.js
 - HTML5
 - CSS3
-- Bootstrap
 
 ### Databases & Cloud
 - MySQL
@@ -32,37 +31,46 @@ Passionate about building software solutions using web technologies, computer vi
 - Raspberry Pi
 - OpenCV
 - MediaPipe
+- Linux
+
 
 ---
 
-## 🚀 Featured Projects
-
-
-### 💬 iChat
-Developed a web-based chat application that enables communication through an interactive user interface. Implemented message handling, user interaction features, and responsive design principles to create a seamless communication platform.
-
-**Technologies:** Java, HTML, Maven, Web Technologies
-
----
+## 📌 Featured Projects
 
 ### 🤖 Hand Gesture Control System
-Developed a real-time hand gesture recognition system using Python, OpenCV, MediaPipe, and Raspberry Pi. Implemented gesture tracking and control mechanisms to enable touchless interaction and integrated Firebase for cloud-based data management.
+Developed a real-time hand gesture recognition system using Python, OpenCV, MediaPipe, and Raspberry Pi. Implemented gesture-based controls and integrated Firebase for cloud-based data management and monitoring.
 
 **Technologies:** Python, OpenCV, MediaPipe, Raspberry Pi, Firebase
+
+🔗 Repository: https://github.com/pranathiyaidyapu/Hand_Gestures_Control_System
 
 ---
 
 ### 🌡️ Hygrothermograph
-Built an IoT-based environmental monitoring system for measuring temperature and humidity in real time. Integrated sensors with Raspberry Pi and Firebase to collect, store, and monitor environmental data remotely.
+Built an IoT-based temperature and humidity monitoring system that collects sensor data in real time and stores it in Firebase for remote access and monitoring.
 
 **Technologies:** Python, Raspberry Pi, Firebase, IoT Sensors
+
+🔗 Repository: https://github.com/pranathiyaidyapu/Hygrothermograph
+
+---
+
+### 💬 iChat
+Developed a web-based chat application that enables user communication through an interactive interface. Implemented messaging functionality and responsive design principles to enhance user experience.
+
+**Technologies:** Java, HTML, Maven
+
+🔗 Repository: https://github.com/pranathiyaidyapu/iChat
 
 ---
 
 ### 📅 Schedule Reminder System
-Designed and developed a scheduling and reminder application that helps users organize tasks and deadlines. Implemented reminder management and user-friendly interfaces to improve productivity and task tracking.
+Designed and developed a scheduling and reminder application that helps users manage tasks, appointments, and deadlines through an intuitive user interface.
 
 **Technologies:** HTML, CSS, JavaScript
+
+🔗 Repository: https://github.com/pranathiyaidyapu/Schedule_Remainder_System_SE
 
 ---
 
@@ -81,4 +89,4 @@ Graduated: December 2025
 
 ---
 
-⭐ Feel free to explore my repositories and connect with me.
+⭐ Thank you for visiting my profile. Feel free to explore my repositories and connect with me!
